@@ -1,6 +1,6 @@
 module github.com/coder/code-marketplace
 
-go 1.23.1
+go 1.23
 
 require (
 	cdr.dev/slog v1.6.1
